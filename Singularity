@@ -5,4 +5,3 @@ Include: yum
 
 %runscript
     echo "testing"
-    /bin/bash
